@@ -54,7 +54,6 @@ A responsive, full-stack Plant Care Management app where users can monitor plant
 
 - Works smoothly on phones, tablets, and desktops
 
-## 🧩 Folder Structure
 
 
 
