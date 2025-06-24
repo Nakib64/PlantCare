@@ -28,17 +28,31 @@ A responsive, full-stack Plant Care Management app where users can monitor plant
 - React.js
 - Tailwind CSS
 - React Router DOM
-- Axios or Fetch API
-- Firebase Auth / JWT
+- Axios 
+- Firebase Auth 
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB Atlas (Cloud)
 - Mongoose
-- Dotenv, CORS, JWT
+- Dotenv, CORS
 
 ---
+
+🔐 Authentication & Private Routes
+- Secure login/signup using Firebase or JWT
+
+- Protected routes (e.g., plant dashboard, manage plants)
+
+- Token-based authorization middleware in backend
+
+📱 Responsiveness
+- Built mobile-first with Tailwind CSS
+
+- Clean, touch-friendly UI
+
+- Works smoothly on phones, tablets, and desktops
 
 ## 🧩 Folder Structure
 
@@ -60,16 +74,4 @@ cd ../client
 npm install
 npm run dev
 
-🔐 Authentication & Private Routes
-- Secure login/signup using Firebase or JWT
 
-- Protected routes (e.g., plant dashboard, manage plants)
-
-- Token-based authorization middleware in backend
-
-📱 Responsiveness
-- Built mobile-first with Tailwind CSS
-
-- Clean, touch-friendly UI
-
-- Works smoothly on phones, tablets, and desktops
